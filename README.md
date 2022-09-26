@@ -2,7 +2,7 @@
 
 # GraphQL IDE Monorepo
 
-> **Security Notice:** All versions of `graphiql` < `1.4.7` are vulnerable to an XSS attack in cases where the GraphQL server to which the GraphiQL web app connects is not trusted. Learn more [in the graphiql `security` docs directory](docs/security)
+> **Security Notice:** All versions of `graphiql` < `1.4.7` are vulnerable to an XSS attack in cases where the GraphQL server to which the GraphiQL web app connects is not trusted. Learn more [in the graphiql `security` docs directory](docs/security). yes
 
 > **Looking for the [GraphiQL Docs?](packages/graphiql/README.md)**: This is the root of the monorepo! The full GraphiQL docs are located at [`packages/graphiql`](packages/graphiql)
 
